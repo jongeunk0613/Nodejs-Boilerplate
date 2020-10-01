@@ -10,3 +10,6 @@
 - Babel
 - MySQL2
 - Dotenv
+
+## What must be set
+- .env file containing database connection settings
